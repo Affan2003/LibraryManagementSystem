@@ -10,24 +10,37 @@ A console-based library management system giving CRUD operations using data stru
 
 ## Instructions:
 
-1. Score as many as you can by swapping the candies position and having consecutive 3 or more than 3 candies to pop them.
-2. Use w, s, a, d for up, down, left, right respectively(+ is used for the pointer).
-3. Use enter key after every movement to apply it.
-4. Press space key to select candy
-5. After every score making turn, you can save your game, exit game, continue playing.
-Note : After some limited amount of turns, game will end and final score will be displayed.
+1. You can add books data with their author and can record the number of copies available.
+2. You can retrieve all the books information by search operation. it contains two modules. you can either retrieve all data or can retrieve a book's data specifically by entering book's id.
+3. You can also delete book's data when number of copies are down to zero.
 
 ## Snapshots:
 
+----------Console based---------
+
 Title screen
-![image](https://github.com/Affan2003/CandyCrush-game/assets/97110821/e1af607a-7c93-4f9a-a3c1-4d7eb5b80699)
+![image](https://github.com/Affan2003/LibraryManagementSystem/assets/97110821/6268b5bb-526e-4126-9336-fdc39cc28c0d)
 
-Countdown and introductory start
-![image](https://github.com/Affan2003/CandyCrush-game/assets/97110821/d5665174-2b73-47ea-94bd-44f4f09a7ba1)
-![image](https://github.com/Affan2003/CandyCrush-game/assets/97110821/a6c59931-a3b7-4e4e-8add-111762e14cae)
+Adding book
 
-Start screen of game play
-![image](https://github.com/Affan2003/CandyCrush-game/assets/97110821/19390eaf-9903-46c3-a85d-1eecb6a05da9)
+![image](https://github.com/Affan2003/LibraryManagementSystem/assets/97110821/cf6197ef-bb8c-415c-be02-2d08eff1c904)
 
-Score increasing
-![image](https://github.com/Affan2003/CandyCrush-game/assets/97110821/5bf2aa50-5ba0-43e1-aae7-46b9714c2e85)
+Retrieve book data
+![image](https://github.com/Affan2003/LibraryManagementSystem/assets/97110821/49e816e3-2142-4bfc-8e7d-aa63bde71ef7)
+
+Delete book data
+![image](https://github.com/Affan2003/LibraryManagementSystem/assets/97110821/ca57cc5c-acc0-4832-9c36-1bad21e9a97f)
+
+
+----------GUI based---------
+
+Title screen
+![image](https://github.com/Affan2003/LibraryManagementSystem/assets/97110821/17001eec-c157-4086-b245-1480d9d85e12)
+![image](https://github.com/Affan2003/LibraryManagementSystem/assets/97110821/d380a236-991a-49b6-8570-ac5689e369a0)
+
+Adding book
+![image](https://github.com/Affan2003/LibraryManagementSystem/assets/97110821/61ec0a57-a62a-4ec6-8394-9494a01e1fbb)
+
+Retrieve book data
+![image](https://github.com/Affan2003/LibraryManagementSystem/assets/97110821/2b676076-f66c-44c7-ac8f-ac53d0597e83)
+![image](https://github.com/Affan2003/LibraryManagementSystem/assets/97110821/d5ff7933-b77d-402a-bb65-69bb4012423e)
